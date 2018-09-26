@@ -1,0 +1,62 @@
+.footer-block {
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    background: #022f66;
+    /*text-align: center;*/
+    padding-top: 45px;
+    padding-bottom: 40px;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+
+.copy-list {
+  background: #022f66;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+
+.copy-list li {
+    color: white;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.copy-list li a {
+  transition: all 0.3s ease !important;
+}
+
+.copy-list li a:hover {
+  color: #7AC3EC;
+  text-decoration: none;
+}
+
+#copy {
+
+}
+
+#gmail {
+
+}
+
+#last-mid {
+
+}
+
+.twoGroup {
+
+}
+
+#g1 {
+    margin-right: 40px;
+}
+
+#g2 {
+    margin-left: -20px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 552px) {
+  .copy-list li {
+      margin-bottom: 25px;
+  }
+}

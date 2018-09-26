@@ -1,0 +1,287 @@
+.skills-col {
+  font-family: 'Karla', sans-serif;
+  background: #2353BD !important;
+}
+
+.skills-block {
+  text-align: center;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-top: 10px;
+  padding-bottom: 100px;
+  background: #2353bd !important;
+}
+
+
+.number-col p {
+  color: white;
+  text-align: left;
+}
+
+#twelve {
+  margin-left: -7px;
+}
+
+.number-div {
+  max-width: 250px;
+  text-align: left;
+}
+
+.list-two {
+  margin: 0 auto !important;
+  display: inline-block !important;
+  background: red;
+  padding: 0;
+}
+
+.list-two li {
+  /*width: 33.3%;*/
+  display: inline-block !important;
+  text-align: left !important;
+}
+
+.figure-wrap {
+  text-align: left !important;
+}
+
+.number-col  p {
+  font-size: 19px;
+  margin-top: 20px;
+}
+
+.number-div {
+  font-family: 'Rubik', sans-serif;
+  font-size: 110px;
+  font-weight: 600 !important;
+  color: white;
+  /*border-bottom: 3px solid #4376DD;*/
+}
+
+.number-col hr {
+  height: 3px !important;
+  border: none;
+  background: #4376DD !important;
+  margin-top: -5px;
+}
+
+ul li {
+  display: inline-block;
+  margin-right: 100px;
+}
+
+.skills-wrap {
+  background: #2353BD !important;
+}
+
+.skills-wrap h3 {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 40px;
+  margin-top: 100px;
+}
+
+.wrap2 {
+  background:  ; /* #2353bd  */
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+#btn-list-block {
+  margin: 0 auto !important;
+  text-align: center !important;
+}
+
+.btn-list {
+  padding: 0;
+  text-align: center;
+  margin: 0 auto !important;
+  display: inline-block !important;
+}
+
+.btn-list li {
+  font-family: 'Rubik', sans-serif;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.btn-list li a {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500 !important;
+  border-radius: 50px;
+}
+
+.pdf-icon {
+  margin-top: -2px;
+  margin-left: 6px;
+}
+
+.btn-list a {
+  font-size: 15px;
+  font-weight: bold;
+  width: 250px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  transition: all 0.3s ease !important;
+  border: 2px solid white;
+  border-radius: 0px;
+}
+
+.btn-list a:hover {
+  background: white;
+  /*color: #337ab7;*/
+  color: #7AC3EC;
+}
+
+#skill-btn1 {
+  margin-right: 10px;
+}
+
+#skill-btn2 {
+  margin-left: 10px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 370px) {
+
+  .wrap3 {
+    margin-left: -15px;
+  }
+
+  .btn-list {
+    /*background: orange;*/
+    margin-right: -20px !important;
+  }
+
+}
+
+
+@media screen and (max-width: 500px) {
+  #skill-btn2 {
+    position: relative;
+  }
+}
+
+@media only screen and (min-width: 537px) and (max-width: 556px) {
+
+  .btn-list {
+    height: 200px;
+  }
+
+  .btn-list li {
+    display: block !important;
+    margin-bottom: 25px;
+  }
+
+  .skill-btn2 {
+    background: green;
+  }
+}
+
+@media screen and (max-width: 536px) {
+  .btn-list li {
+    display: block !important;
+    margin-bottom: 25px;
+  }
+}
+
+@media screen and (max-width: 556px) {
+  #skill-btn2 {
+    margin-left: -10px !important;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 761px) {
+  div.skills-wrap > ul li {
+
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .wrap2 {
+    margin-left: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .number-col {
+    margin: 0 auto !important;
+    display: inline-block !important;
+  }
+
+  .wrap3 {
+    max-width: 300px;
+    display: inline-block !important;
+    text-align: center !important;
+  }
+}
+
+@media screen and (max-width: 801px) {
+  div.skills-wrap > ul li {
+    margin: 20px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .wrap2 {
+    padding-left: 6% !important;
+  }
+}
+
+@media screen and (max-width: 1001px) {
+  ul li {
+    margin-right: 50px;
+  }
+
+
+  .number-div {
+    font-size: 85px;
+    /*border-bottom: 3px solid #4376DD;*/
+  }
+}
+
+@media screen and (min-width: 1100px) {
+
+  .number-col1 {
+    background:;
+    padding-right: 100px;
+  }
+
+  .number-col2 {
+    background:;
+    padding-right: 100px;
+  }
+
+  .number-col3 {
+    background:;
+    padding-right: 100px;
+  }
+}
+
+@media screen and (max-width: 1229px) {
+  .last-item {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  .wrap3 {
+
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .number-col1 {
+    background:;
+    padding-right: 100px;
+  }
+
+  .number-col2 {
+    background:;
+    padding-right: 100px;
+  }
+
+  .number-col3 {
+    background:;
+    padding-right: 100px;
+  }
+}

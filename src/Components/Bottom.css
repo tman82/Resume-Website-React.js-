@@ -1,0 +1,14 @@
+.bottom-block {
+  font-family: 'Karla', sans-serif;
+  font-size: 15px;
+  color: #7AC3EC;
+  background-color: #0F1626;
+  text-align: center;
+  margin: 0px -15px !important;
+  padding: 10px 0px;
+}
+
+.sides {
+  margin-left: -20px;
+  margin-right: -20px;
+}
